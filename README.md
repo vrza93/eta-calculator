@@ -32,7 +32,7 @@
 Developed by **VRZA Tech**. I create practical tools for maritime professionals to make life on board a bit easier.
 
 - **Website:** [vrzatech.me](https://vrzatech.me)
-- **Support:** [Support me on Ko-fi](https://ko-fi.com/TVOJE_IME)
+- **Support:** [Support me on Ko-fi](https://ko-fi.com/vrzatech)
 
 ---
 
