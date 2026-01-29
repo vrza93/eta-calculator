@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ETACalculator",
-    "slug": "ETACalculator",
+    "name": "ETA Calculator",
+    "slug": "eta-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1a2634"
     },
     "ios": {
       "supportsTablet": true
@@ -18,12 +18,26 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#1a2634"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.vrza.etacalculator"
     },
+    "androidStatusBar": {
+    "barStyle": "dark-content", 
+    "backgroundColor": "#00000000",
+    "translucent": true
+  },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5818d918-6763-40d7-b365-d39eb0798ae5"
+      }
     }
   }
 }
