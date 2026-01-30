@@ -24,10 +24,10 @@
       "package": "com.vrza.etacalculator"
     },
     "androidStatusBar": {
-    "barStyle": "dark-content", 
-    "backgroundColor": "#00000000",
-    "translucent": true
-  },
+      "barStyle": "dark-content",
+      "backgroundColor": "#00000000",
+      "translucent": true
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
@@ -36,7 +36,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "5818d918-6763-40d7-b365-d39eb0798ae5"
+        "projectId": "16d38e44-b860-4729-8ce8-815b55b72c6e"
       }
     }
   }
